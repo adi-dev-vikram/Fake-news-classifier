@@ -1,2 +1,2 @@
 # Fake-news-classifier
-Detecting fake news
+Detecting COVID-19 related fake news
